@@ -9,4 +9,4 @@ When you shake your iPhone you can see the dice changing its dice face.
 
 ![IPhone8](https://github.com/kazakovaNetIOS/Dicee/blob/master/screenshots/IPhone8.png)
 
-![IPhoneX](https://github.com/kazakovaNetIOS/Dicee/blob/master/screenshots/IPhoneX.png)
+![IPhone8Hor](https://github.com/kazakovaNetIOS/Dicee/blob/master/screenshots/IPhone8Hor.png)
